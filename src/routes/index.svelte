@@ -3,11 +3,10 @@
 </script>
 
 <svelte:head>
-    <title>Greates Quotes</title>
+	<title>Greates Quotes</title>
 </svelte:head>
 
 <h1>Welcome to Greates Quotes</h1>
 
 <style>
-
 </style>
